@@ -1,4 +1,4 @@
-# ArthSathi --- AI-Powered Financial Inclusion Companion
+# FinSaathi/ArthSathi --- AI-Powered Financial Inclusion Companion
 
 > **Learn. Understand. Act safely. Grow.**
 
